@@ -23,6 +23,10 @@
     <br>
     - :mailbox: You can reach out to me through my mail : <b>211220061@nitdelhi.ac.in</b>
   </div>
+  <div>
+    Headover to my portfolio site for a <b>visual treat</b> & a better summary of ME
+    <a href="https://utkarshguptaa.netlify.app/"><b>(Link)</b></a>
+  </div>
 </div>
 
 ---
